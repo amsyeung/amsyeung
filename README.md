@@ -6,6 +6,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Project Lombok @Builder and Java Bean Validation](https://amsyeung.medium.com/project-lombok-builder-and-java-bean-validation-cb64f8b6f5cd?source=rss-33051014bfab------2)
+- [PostgreSQL command sql statement on system catalogs &lpar;pg_*&rpar;](https://amsyeung.medium.com/postgresql-command-sql-statement-on-system-catalogs-pg-f1258136f4fa?source=rss-33051014bfab------2)
+- [Use multi-thread for Base64 encoding in Java](https://amsyeung.medium.com/use-multi-thread-for-base64-encoding-in-java-15218e409f7e?source=rss-33051014bfab------2)
+- [Run Spring Boot application in wildfly](https://amsyeung.medium.com/run-spring-boot-application-in-wildfly-e5a3599529c7?source=rss-33051014bfab------2)
+- [gRPC Initialization on Wildfly26+ using Spring framework](https://amsyeung.medium.com/grpc-initialization-on-wildfly26-using-spring-framework-d7c8b82a5988?source=rss-33051014bfab------2)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
