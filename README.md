@@ -20,10 +20,10 @@
 <a href="https://www.leetcode.com/amsyeung" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="amsyeung" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13756498" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="4214976" height="30" width="40" /></a>
 
-[![Andy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amsyeung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/amsyeung/github-readme-stats#gh-dark-mode-only)
-[![Andy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amsyeung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/amsyeung/github-readme-stats#gh-light-mode-only)
+[![Andy's GitHub stats-Dark](https://github-readme-stats-lovat-eta-30.vercel.app/api?username=amsyeung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/amsyeung/github-readme-stats#gh-dark-mode-only)
+[![Andy's GitHub stats-Light](https://github-readme-stats-lovat-eta-30.vercel.app/api?username=amsyeung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/amsyeung/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsyeung&layout=donut)](https://github.com/amsyeung/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lovat-eta-30.vercel.app/api/top-langs/?username=amsyeung&layout=donut)](https://github.com/amsyeung/github-readme-stats)
 
 🚀 &nbsp; **Languages and Tools**
 
