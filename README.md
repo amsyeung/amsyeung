@@ -13,11 +13,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I kept losing my Claude artifacts, so I made a mod](https://amsyeung.medium.com/i-kept-losing-my-claude-artifacts-so-i-made-a-mod-b64c65a38599?source=rss-33051014bfab------2)
 - [Why I moved my portfolio off Notion and Contentful](https://amsyeung.medium.com/why-i-moved-my-portfolio-off-notion-and-contentful-b52634d05efd?source=rss-33051014bfab------2)
 - [Project Lombok @Builder and Java Bean Validation](https://amsyeung.medium.com/project-lombok-builder-and-java-bean-validation-cb64f8b6f5cd?source=rss-33051014bfab------2)
 - [PostgreSQL command sql statement on system catalogs &lpar;pg_*&rpar;](https://amsyeung.medium.com/postgresql-command-sql-statement-on-system-catalogs-pg-f1258136f4fa?source=rss-33051014bfab------2)
 - [Use multi-thread for Base64 encoding in Java](https://amsyeung.medium.com/use-multi-thread-for-base64-encoding-in-java-15218e409f7e?source=rss-33051014bfab------2)
-- [Run Spring Boot application in wildfly](https://amsyeung.medium.com/run-spring-boot-application-in-wildfly-e5a3599529c7?source=rss-33051014bfab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack
