@@ -13,11 +13,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Free AI for my Chrome extension’s users, with no API key and no surprise bill](https://amsyeung.medium.com/free-ai-for-my-chrome-extensions-users-with-no-api-key-and-no-surprise-bill-8b632af3d944?source=rss-33051014bfab------2)
 - [Getting my iPhone music app to keep playing on the lock screen](https://amsyeung.medium.com/getting-my-iphone-music-app-to-keep-playing-on-the-lock-screen-a5fb15311002?source=rss-33051014bfab------2)
 - [Shipping my Chrome extension on merge, with no stored secrets](https://amsyeung.medium.com/shipping-my-chrome-extension-on-merge-with-no-stored-secrets-4b79ec4e456a?source=rss-33051014bfab------2)
 - [My music app no longer needs my computer on](https://amsyeung.medium.com/my-music-app-no-longer-needs-my-computer-on-68b44186f134?source=rss-33051014bfab------2)
 - [I kept losing my Claude artifacts, so I made a mod](https://amsyeung.medium.com/i-kept-losing-my-claude-artifacts-so-i-made-a-mod-b64c65a38599?source=rss-33051014bfab------2)
-- [Why I moved my portfolio off Notion and Contentful](https://amsyeung.medium.com/why-i-moved-my-portfolio-off-notion-and-contentful-b52634d05efd?source=rss-33051014bfab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack
