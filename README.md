@@ -13,11 +13,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My first Expo push notifications: device tokens, Expo tokens, APNs and where EAS fits](https://amsyeung.medium.com/my-first-expo-push-notifications-device-tokens-expo-tokens-apns-and-where-eas-fits-c940e72d23d3?source=rss-33051014bfab------2)
+- [Why my 15 GB AI model download kept failing near the end](https://amsyeung.medium.com/why-my-15-gb-ai-model-download-kept-failing-near-the-end-decdaf239e27?source=rss-33051014bfab------2)
+- [Why my development build needs my computer: what Metro actually does](https://amsyeung.medium.com/why-my-development-build-needs-my-computer-what-metro-actually-does-c81367664e53?source=rss-33051014bfab------2)
 - [Why Windows wouldn’t let me rename a folder I wasn’t using](https://amsyeung.medium.com/why-windows-wouldnt-let-me-rename-a-folder-i-wasn-t-using-7b7cb2a80d97?source=rss-33051014bfab------2)
 - [A one-click ComfyUI + Nuke installer for a friend in VFX](https://amsyeung.medium.com/a-one-click-comfyui-nuke-installer-for-a-friend-in-vfx-769dc3fdf0d4?source=rss-33051014bfab------2)
-- [Free AI for my Chrome extension’s users, with no API key and no surprise bill](https://amsyeung.medium.com/free-ai-for-my-chrome-extensions-users-with-no-api-key-and-no-surprise-bill-8b632af3d944?source=rss-33051014bfab------2)
-- [Getting my iPhone music app to keep playing on the lock screen](https://amsyeung.medium.com/getting-my-iphone-music-app-to-keep-playing-on-the-lock-screen-a5fb15311002?source=rss-33051014bfab------2)
-- [Shipping my Chrome extension on merge, with no stored secrets](https://amsyeung.medium.com/shipping-my-chrome-extension-on-merge-with-no-stored-secrets-4b79ec4e456a?source=rss-33051014bfab------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech Stack
